@@ -1,0 +1,6 @@
+C:\Users\Toon\Documents\Visual Studio 2010\Projects\practicum5\practicum5\bin\Debug\practicum5.dll.config
+C:\Users\Toon\Documents\Visual Studio 2010\Projects\practicum5\practicum5\bin\Debug\practicum5.dll
+C:\Users\Toon\Documents\Visual Studio 2010\Projects\practicum5\practicum5\bin\Debug\practicum5.pdb
+C:\Users\Toon\Documents\Visual Studio 2010\Projects\practicum5\practicum5\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Toon\Documents\Visual Studio 2010\Projects\practicum5\practicum5\obj\Debug\practicum5.dll
+C:\Users\Toon\Documents\Visual Studio 2010\Projects\practicum5\practicum5\obj\Debug\practicum5.pdb

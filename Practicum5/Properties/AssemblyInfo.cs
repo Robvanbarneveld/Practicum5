@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Practicum5")]
+[assembly: AssemblyTitle("practicum5")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Practicum5")]
+[assembly: AssemblyProduct("practicum5")]
 [assembly: AssemblyCopyright("Copyright ©  2013")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("ca52ace4-ad5d-447e-8dcc-f8c7ded80ba8")]
+[assembly: Guid("d4c67a67-b1dd-481d-8cb9-a903b44ef5e4")]
 
 // Version information for an assembly consists of the following four values:
 //
